@@ -5,6 +5,14 @@ param(
 	[string]$Domain = "c0d4.ink"
 )
 
+$utf8 = [System.Text.UTF8Encoding]::new($false)
+[Console]::InputEncoding = $utf8
+[Console]::OutputEncoding = $utf8
+$OutputEncoding = $utf8
+if ($env:OS -eq "Windows_NT") {
+	& chcp.com 65001 | Out-Null
+}
+
 $ErrorActionPreference = "Stop"
 $projectRoot = Split-Path -Parent $PSScriptRoot
 Push-Location $projectRoot
