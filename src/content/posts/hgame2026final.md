@@ -53,7 +53,7 @@ sub_12B0调用sub_1260完成了对shellcode的加载，存入mmap申请的内存
 
 看一下`mprotect`附近的汇编
 
-```nasm
+```asm
 .text:0000000000001394 push    rax
 .text:0000000000001395 mov     rax, rbx
 .text:0000000000001398 jmp     short loc_13A2
