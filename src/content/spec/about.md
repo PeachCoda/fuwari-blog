@@ -1,9 +1,16 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+**Welcome to our [LAB](https://steins-gate.fandom.com/wiki/Future_Gadget_Laboratory)!**
 
-::github{repo="saicaca/fuwari"}
+关于我：
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
++ 前 OIer
++ 现 Vidar-Team 成员
++ 杭电 25 级信安在读
++ RE菜菜，crypto有兴趣（？
+
+以及：
++ 喜欢听歌，但是歌单很杂食
++ 喜欢命运石之门系列
++ 宝可梦爱好者
+
+***El Psy Kongroo***
