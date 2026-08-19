@@ -1,7 +1,7 @@
 ---
 title: DontDebugMe
 published: 2025-11-08
-desicription: 第八届ZJ CTF预赛RE1
+description: 第八届ZJ CTF预赛RE1
 category: CTF
 tags: ["RE","wp"]
 draft: false

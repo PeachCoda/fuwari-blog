@@ -1,6 +1,7 @@
 ---
 title: 链表
 published: 2023-09-03
+description: 
 category: OI
 tags: ["数据结构"]
 draft: false

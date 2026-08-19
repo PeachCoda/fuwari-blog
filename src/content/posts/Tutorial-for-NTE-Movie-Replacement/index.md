@@ -3,7 +3,7 @@ title: NTE Movie Replacement
 published: 2026-05-02
 description: 仅供交流学习使用
 image: "./your_name.jpg"
-category: 其他
+category: other
 tags: ["游戏", "mod"]
 draft: false
 ---
