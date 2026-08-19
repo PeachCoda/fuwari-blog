@@ -2,7 +2,6 @@
 title: Notes on Cryptohack
 published: 2026-04-12
 description: updating
-image: "./image.png"
 category: CTF
 tags: ["Crypto","数论","编码","RSA","AES"]
 draft: false
