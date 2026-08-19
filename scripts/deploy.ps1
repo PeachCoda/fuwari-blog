@@ -83,6 +83,13 @@ find "`$target" -type f -exec chmod 644 {} +
 nginx -t
 
 old_target=`$(readlink -f "`$current" 2>/dev/null || true)
+
+# Keep the previous release's hashed assets available for cached HTML pages.
+if [ -n "`$old_target" ] && [ -d "`$old_target/_astro" ]; then
+    mkdir -p "`$target/_astro"
+    cp -a -n "`$old_target/_astro/." "`$target/_astro/"
+fi
+
 ln -sfn "`$target" "`$current"
 
 if ! systemctl reload nginx || ! curl --noproxy '*' -skf --resolve "`$domain:443:127.0.0.1" "https://`$domain/" -o /dev/null; then
