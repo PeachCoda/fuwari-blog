@@ -1,16 +1,11 @@
 ---
-title: "Hgame mini 2025"
-published: 2025-11-06T00:25:13+08:00
-category: "CTF"
-tags:
-  - "wp"
-  - "TEA"
+title: Hgame mini 2025
+published: 2025-11-06
+description: 菜菜
+category: CTF
+tags: ["RE","wp","TEA"]
 draft: false
-lang: "zh_CN"
 ---
-菜菜
-<!-- more -->
-
 ## EasyUPX
 
 > <https://hgame.vidar.club/games/8/challenges?challenge=121>

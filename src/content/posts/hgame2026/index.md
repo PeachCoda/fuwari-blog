@@ -1,19 +1,12 @@
 ---
-title: "Hgame 2026"
-published: 2026-03-06T15:30:45+08:00
-category: "CTF"
-tags:
-  - "wp"
-  - "Android"
-  - "异常调用"
-  - "驱动"
-  - "AES"
-  - "VM"
+title: Hgame 2026
+published: 2026-03-06
+description: 2026/2/2 ~ 2026/2/15
+category: CTF
+tags: ["wp","Android","异常调用","驱动","AES","VM"]
 draft: false
-lang: "zh_CN"
 ---
 > <https://hgame.vidar.club/training/9>
-<!-- more -->
 
 ## week1
 

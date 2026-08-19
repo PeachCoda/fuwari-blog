@@ -1,16 +1,11 @@
 ---
-title: "计算机基础知识"
-published: 2023-09-06T18:45:54+08:00
-category: "OI"
-tags: []
+title: 计算机基础知识
+published: 2023-09-06
+description: 翻蓝书整理出来的知识点，草率且不严谨，仅供参考
+category: OI
+tags: ["计组"]
 draft: false
-lang: "zh_CN"
 ---
-> 翻蓝书整理出来的知识点，草率且不严谨，仅供参考
-<!-- more -->
-
-<br>
-
 ## 计算机常识
 
 + 电子管——>晶体管——>集成电路——>超大规模集成电路

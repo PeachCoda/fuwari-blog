@@ -1,16 +1,11 @@
 ---
-title: "DontDebugMe"
-published: 2025-11-08T21:54:00+08:00
-category: "CTF"
-tags:
-  - "wp"
+title: DontDebugMe
+published: 2025-11-08
+desicription: 第八届ZJ CTF预赛RE1
+category: CTF
+tags: ["RE","wp"]
 draft: false
-lang: "zh_CN"
 ---
-> 第八届ZJ CTF预赛RE1
-
-<!-- more -->
-
 点开pseudocode,
 
 ![DontDebugMe-1](DontDebugMe-1.png)

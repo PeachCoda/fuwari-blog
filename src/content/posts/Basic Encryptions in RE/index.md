@@ -1,17 +1,11 @@
 ---
-title: "Basic Encryptions in RE"
-published: 2025-11-06T19:46:00+08:00
-category: ""
-tags: []
+title: 逆向常见加密
+published: 2025-11-06
+description: IDA分析pseudocode时，往往会发现存在加密算法，本篇将介绍几种常见的几种，基础的加密算法要求了解具体原理，因为可以魔改
+category: CTF
+tags: ["RE","加密"]
 draft: false
-lang: "zh_CN"
 ---
-> IDA分析pseudocode时，往往会发现存在加密算法，本篇将介绍几种常见的几种，基础的加密算法要求了解具体原理，因为可以魔改
-
----
-
-<!-- more -->
-
 ## base64
 
 将字符从8bit表示转换为6bit表示，映射到给定的**字符表**（可换），padding为 **"="**
@@ -40,7 +34,7 @@ print (base64.b64decode(str1.translate(str.maketrans(string1,string2))))
 
 ![base家族](base家族.png)
 
-[EasyUPX](https://c0d4.ink/2025/11/06/EasyUPX/)
+[EasyUPX](https://c0d4.ink/posts/hgame-mini-2025/#easyupx)
 
 ---
 
@@ -67,7 +61,7 @@ print("MD5(16位):", md5_encrypt(s, 16))
 
 MD5 是**不可逆加密（哈希）算法**，不存在通用的数学解密方式。
 
-[Z333333](https://c0d4.ink/2025/11/06/Z333333/)
+[Z333333](https://c0d4.ink/posts/hgame-mini-2025/#z333333)
 
 ---
 
@@ -111,7 +105,7 @@ void decrypt(uint32_t* v, uint32_t* k) {
 
 ![tea](tea.png)
 
-[simple tea](https://c0d4.ink/2025/11/07/simple-tea/)
+[simple tea](https://c0d4.ink/posts/hgame-mini-2025/#simple-tea)
 
 ---
 
@@ -145,7 +139,7 @@ void decrypt(uint32_t* v, uint32_t* k) {
 }
 ```
 
-[Easyxtea](https://c0d4.ink/2025/11/07/Easyxtea/)
+[Easyxtea](https://c0d4.ink/posts/hgame-mini-2025/#easyxtea)
 
 ---
 

@@ -1,17 +1,11 @@
 ---
-title: "CSP-J/S 2023 游记"
-published: 2023-10-30T19:18:42+08:00
-category: "OI"
-tags:
-  - "游记"
+title: CSP-J/S 2023 游记
+published: 2023-10-30
+description: 蒟蒻orz
+category: OI
+tags: ["游记"]
 draft: false
-lang: "zh_CN"
 ---
-> 蒟蒻orz
-<!-- more -->
-
-<br>
-
 ## 10.20
 
 考前周五，大蓝书已经看不下去了，遂摆烂一上午

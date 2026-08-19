@@ -1,25 +1,12 @@
 ---
-title: "Notes on Cryptohack"
-published: 2026-04-12T03:06:38+08:00
-category: "CTF"
-tags:
-  - "Crypto"
-  - "数论"
-  - "编码"
-  - "公钥加密"
-  - "非对称加密"
-  - "对称加密"
-  - "流密码"
-  - "分组密码"
-  - "RSA"
-  - "AES"
+title: Notes on Cryptohack
+published: 2026-04-12
+description: updating
+image: "./image.png"
+category: CTF
+tags: ["Crypto","数论","编码","RSA","AES"]
 draft: false
-lang: "zh_CN"
 ---
-updating
-
-<!-- more -->
-
 ## Introduction to Cryptohack
 
 ```python

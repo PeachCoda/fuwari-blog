@@ -1,17 +1,11 @@
 ---
-title: "Hgame Final 2026"
-published: 2026-04-12T02:57:18+08:00
-category: "CTF"
-tags:
-  - "wp"
-  - "VM"
-  - "花指令"
+title: Hgame Final 2026
+published: 2026-04-12
+category: CTF
+tags: ["wp","VM","花指令"]
 draft: false
-lang: "zh_CN"
 ---
 > https://hgame.vidar.club/games/10
-
-<!-- more -->
 
 ## juncrypt
 
