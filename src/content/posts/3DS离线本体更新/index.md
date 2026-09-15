@@ -1,7 +1,7 @@
 ---
-title: 3DS不联网本体更新
+title: 3DS离线本体更新
 published: 2026-08-21
-description: 老小三，更新至最新系统，可以使用Pokemon Bank
+description: 机子是老小三，更新至最新系统，可以使用Pokemon Bank
 category: other
 draft: false
 ---
@@ -12,11 +12,11 @@ draft: false
 
 ## 1. 确认当前状态
 
-![初始系统版本](C:/Users/c8o1d/Desktop/3DS系统更新教程配图/IMG_20260819_211539.jpg)
+![初始系统版本](IMG_20260819_211539.jpg)
 
 系统设置右下角显示 `Sys 11.8.0-41J` 这类字样，说明当前是 SysNAND 日版系统。
 
-![Luma 配置](C:/Users/c8o1d/Desktop/3DS系统更新教程配图/IMG_20260819_212242.jpg)
+![Luma 配置](IMG_20260819_212242.jpg)
 
 按住 `SELECT` 开机进入 Luma 配置。建议打开 `Show NAND or user string in System Settings`，然后选 `Save and exit`。
 
@@ -30,7 +30,7 @@ draft: false
 
 ## 3. CTRTransfer 修系统底座
 
-![CTRTransfer](C:/Users/c8o1d/Desktop/3DS系统更新教程配图/IMG_20260819_224105.jpg)
+![CTRTransfer](IMG_20260819_224105.jpg)
 
 按 3DS Hacks Guide 的 CTRTransfer 流程做。老小三日版只选这个包：
 
@@ -42,7 +42,7 @@ draft: false
 
 ## 4. 用 sysUpdater 离线更新到 11.17
 
-![sysUpdater](C:/Users/c8o1d/Desktop/3DS系统更新教程配图/IMG_20260820_014226.jpg)
+![sysUpdater](IMG_20260820_014226.jpg)
 
 在 SD 根目录建 `updates` 文件夹，把 `Old 3DS / JPN / 11.17.0-50J` 更新包里的所有 `.cia` 放进去。
 
@@ -50,7 +50,7 @@ draft: false
 
 ## 5. 检查结果
 
-![最终版本](C:/Users/c8o1d/Desktop/3DS系统更新教程配图/IMG_20260820_014627.jpg)
+![最终版本](IMG_20260820_014627.jpg)
 
 系统设置右下角显示 `Sys 11.17.0-50J` 就完成了。
 
