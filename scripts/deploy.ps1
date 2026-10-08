@@ -1,6 +1,6 @@
 [CmdletBinding()]
 param(
-	[string]$SshTarget = "root@100.79.1.53",
+	[string]$SshTarget = "root@100.65.77.29",
 	[string]$RemoteBase = "/var/www",
 	[string]$Domain = "c0d4.ink"
 )
