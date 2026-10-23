@@ -13,9 +13,10 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
-# environment variables
+# local environment variables
 .env
-.env.production
+.env.*
+!.env.example
 
 # macOS-specific files
 .DS_Store
@@ -29,3 +30,12 @@ yarn.lock
 # ide
 .idea
 *.iml
+/.vscode/
+/frontmatter.json
+
+# local deployment and maintenance tools
+/.local/
+/scripts/deploy.ps1
+
+# local release archives
+/fuwari-*.tar.gz
