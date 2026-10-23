@@ -9,6 +9,12 @@ export type FriendLink = {
 export const friendLinks: FriendLink[] = [
 	// Add a friend by copying this example and removing the leading // markers:
 	{
+		name: "Codaaaa",
+		url: "https://www.cnblogs.com/codaaaa",
+		description: "legacy",
+		avatar: "https://cdn.luogu.com.cn/upload/image_hosting/wc7zwj5t.png",
+	},
+	{
 		name: "Shiori",
 		url: "https://sh10rl.top/",
 		description: "Shiori's Coffee Nook",

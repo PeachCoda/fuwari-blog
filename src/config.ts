@@ -72,7 +72,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "github",
 			icon: "fa6-brands:github",
-			url: "https://github.com/PeachCoda",
+			url: "https://github.com/imcoda",
 		},
 	],
 };
