@@ -13,7 +13,7 @@
     "new-post": "node scripts/new-post.js",
     "format": "biome format --write ./src",
     "lint": "biome check --write ./src",
-    "deploy": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File ./.local/deploy.ps1",
+    "d": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File ./.local/deploy.ps1",
     "preinstall": "npx only-allow pnpm"
   },
   "dependencies": {
