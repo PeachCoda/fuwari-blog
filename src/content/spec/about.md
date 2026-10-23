@@ -6,11 +6,11 @@
 + 前 OIer
 + 现 Vidar-Team 成员
 + 杭电 25 级信安在读
-+ RE菜菜，crypto有兴趣（？
++ IoT 烘焙中
 
 以及：
-+ 喜欢听歌，但是歌单很杂食
-+ 喜欢命运石之门系列
-+ 宝可梦爱好者
++ adv (非gal)
++ Pokemon
++ J-pop / Rock / Jazz-hiphop / 中术
 
 ***El Psy Kongroo***
